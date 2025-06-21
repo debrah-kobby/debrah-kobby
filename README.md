@@ -8,7 +8,7 @@ Hi, I'm Prince Debrah Bessah Sam, an aspiring IT professional passionate about w
 
 My journey in coding started at Ghana Secondary Technical School, where I was an active coding club member. Now, as an IT student at university, I’m honing my skills in web development and entrepreneurship.
 
-I'm the co-owner of High School Plug, a media brand dedicated to engaging and inspiring students. I also run PEBDM, a clothing brand that embodies my vision for style and innovation.
+I'm a member of High School Plug, a media brand dedicated to engaging and inspiring students. I also run PEBDM, a clothing brand that embodies my vision for style and innovation.
 
 Whether it's building websites, designing digital content, or crafting unique apparel , I love problem-solving and exploring new technologies.
 
