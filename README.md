@@ -6,9 +6,9 @@
 </p>
 
 <p align="center" dir="auto">
-    <a href="https://drive.google.com/file/d/1gFfbUb2OyRuOTuKt1YrQtWiS_An1fPKW/view?usp=sharing" rel="nofollow">
+    <a href="https://drive.google.com/file/d/1gFfbUb2OyRuOTuKt1YrQtWiS_An1fPKW/view?usp=sharing" target="_blank" rel="nofollow">
       <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height: 35px; max-width: 100%;"></a> &nbsp;
-    <a href="http://debrahkobby.netlify.app/" rel="nofollow">
+    <a href="http://debrahkobby.netlify.app/" target="_blank" rel="nofollow">
       <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height: 35px; max-width: 100%;"></a>
 </p>
 
