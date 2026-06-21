@@ -8,7 +8,7 @@
 <p align="center" dir="auto">
     <a href="https://drive.google.com/file/d/1gFfbUb2OyRuOTuKt1YrQtWiS_An1fPKW/view?usp=sharing" target="_blank" rel="nofollow">
       <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height: 35px; max-width: 100%;"></a> &nbsp;
-    <a href="http://debrahkobby.netlify.app/" target="_blank" rel="nofollow">
+    <a href="http://debrahkobby.com" target="_blank" rel="nofollow">
       <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height: 35px; max-width: 100%;"></a>
 </p>
 
@@ -121,7 +121,7 @@
 ## 🚀 Ongoing Projects
 
 - 🏨 [Novera Hotel App](http://novera-hotel.netlify.app/) — Hotel booking app
-- 🎨 [Greyscale Portfolio](http://greyscaleportfolio.netlify.app/) — My personal portfolio website
+- 🎨 [Greyscale Portfolio](http://debrahkobby.com) — My personal portfolio website
 - 👕 **PEBDM Clothing Brand** — Fashion brand project
 - 📣 **High School Plug** — Media & content creation
 
